@@ -22,14 +22,14 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
     1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
        [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
 
+1. [Banecki, Daniel](https://bitbucket.org/Harpie/nosql)
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. [Komorowski, Szymon](https://github.com/szykom/nosql)
-1. [Miś, Maciej](https://github.com/MacMisDev/nosql). [Chicago crimes](https://github.com/MacMisDev/nosql)
+1. [Nowicki, Jakub](https://github.com/jnowicki/NoSQL-JN)
+1. [Banecka, Kamila](https://bitbucket.org/KamBan/nosql)
 
 ### Niezaliczone laboratorium
 
-1. Banecka, Kamila
-1. Banecki, Daniel
 1. Bieliński, Marcin
 1. Gałka, Łukasz
 1. Grycko, Marcin
@@ -38,8 +38,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Kłeczek, Piotr
 1. Koźmiński, Marcin
 1. Makulec, Krzysztof
-1. Nowicki, Jakub
-1. Sałata, Jakub
+1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md).[GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md)
 1. Soliński, Damian
 1. Szklarska, Milena
 1. Szymanek, Tomasz
@@ -48,15 +47,17 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
 
-Należy przygotować rozwiązania do
-[zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
-(można zaproponować inne dane i inne funkcje map i reduce).
-Albo przygotować przykłady z *faceted search* lub agregacji w Elasticsearch.
+Należy przygotować rozwiązanie [Zadania 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
+(można użyć innych danych i napisać swoje map-reduce).
 
-Można też przygotować rozwiązanie w zespole 2–3 osobowy.
-W takim przypadku należy podłączyć *mongod* do
-[MMS](https://mms.mongodb.com) i dodać raport z monitoringu.
-(Po podłączeniu w opcjach należy włączyć profilowanie.)
+Zamiast bazy MongoDB, można przygotować przykłady lub wtyczki lub agregacje
+dla bazy [Elasticsearch](http://www.elasticsearch.org/overview/).
+Na początek należy się przyjrzeć narzędziu
+[Kibana](http://www.elasticsearch.org/overview/kibana), następnie poczytać
+o [wtyczkach](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-plugins.html)
+a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-aggregations.html).
+
+*Uwaga:* Większe zadania, można przygotować w zespole 2–3 osobowym.
 
 1. Acewicz-Hepfner, Patryk
 1. Banecka, Kamila
@@ -141,7 +142,8 @@ And two more rules:
 
 1. Do automatycznego wygenerowania spisu treści w zadaniach można użyć narzędzia
 [Table of Contents Preprocessor](https://github.com/aslushnikov/table-of-contents-preprocessor).
-1. Jak sobie radzić z [nieczystymi committami](Git_Pull_Requests.md)?
+1. Scott Chacon, Ben Straub. [Pro Git](http://git-scm.com/book/en/v2)
+  - [6.2 GitHub – Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 
 
 ## Big Collections
