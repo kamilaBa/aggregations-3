@@ -68,8 +68,8 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 *Uwaga:* Większe zadania, można przygotować w zespole 2–3 osobowym.
 
 1. Acewicz-Hepfner, Patryk
-1. Banecka, Kamila
-1. Banecki, Daniel
+1. [Banecka, Kamila](https://bitbucket.org/KamBan/egzamin-nosql)
+1. [Banecki, Daniel](https://bitbucket.org/KamBan/egzamin-nosql)
 1. Bednarczyk, Marek
 1. Bieliński, Marcin
 1. Bławat, Adam
